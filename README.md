@@ -1,1 +1,1 @@
-This is fork from NCKU embadded 2015
+This is the repository which forked form embedded2015/arm-lecture. 
